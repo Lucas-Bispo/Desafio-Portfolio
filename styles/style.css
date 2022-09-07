@@ -7,8 +7,8 @@
   :root {
     background: url(https://user-images.githubusercontent.com/60610011/188964577-19b0774e-d93d-4089-b50f-7eeb930d93d8.png);
     --text-color: #1e292b;
-    --bg-cards: #E4F2E7;
-    --bg-techs: #93BFB7;
+    --bg-cards: #ffffff;
+    --bg-techs: #00a4a8;
   }
   
   body{ 
